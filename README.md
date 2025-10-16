@@ -1,4 +1,4 @@
-# 💻 Develop Team
+# 💻 Development Team
 
 Somos un grupo de desarrolladores web de Córdoba apasionados por la tecnología, el diseño y la innovación.  
 Nuestro objetivo es ofrecer soluciones digitales eficientes, personalizadas y visualmente atractivas para potenciar la presencia online de empresas, emprendedores y proyectos académicos.
